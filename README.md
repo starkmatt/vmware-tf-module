@@ -3,6 +3,9 @@ This Repository is dedicated to a VMware-Terraform Module I'm creating to help A
 Contained within is code that will deploy the following;
  - Linux or Windows Machine (Based on Template)
  - In specified vCentre
+ 
+## NOTE, You must have Terraform / Make installed on the machine you're using
+## There is another way using docker-compose, please contact me for details
 
 ### Description
 A short brief on this code, is that it will provision either a Windows Machine or Linux Machine based on the template it pointing to.
